@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomationExercise">
+    <listeners>
+        <listener class-name="listeners.Listener"/>
+    </listeners>
+    <parameter name="browser" value=""/>
+    <test name=" TC01 Verify Login Successfully">
+        <classes>
+            <class name="TestCases.TC01_Home">
+                <methods>
+                    <include name="CheckSignInLinkClickable"/>
+                </methods>
+            </class>
+
+            <class name="TestCases.TC02_Login">
+                <methods>
+                    <include name="loginWithValidData_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

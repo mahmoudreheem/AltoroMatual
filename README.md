@@ -1,6 +1,6 @@
-# Nop Commerce
+# ALtoroMatual
 
-![Nop Commerce Logo](https://demo.nopcommerce.com/Themes/DefaultClean/Content/images/logo.png)
+![ALtoroMatual Logo](https://drive.google.com/file/d/1j1LaNZNrnzLV2pLaFrfDluxt-t5fUuSr/view?usp=drive_link)
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Nop Commerce is a E-Commerce Web Application that provides various ecommerce services and features. This repository contains the source code for the Nop Commerce application.
+ALtoroMatual is a Banking Web Application that provides various ecommerce services and features. This repository contains the source code for the ALtoroMatual application.
 
 ## Features
 
@@ -24,7 +24,7 @@ Nop Commerce is a E-Commerce Web Application that provides various ecommerce ser
 
 ## Installation
 
-To set up the Nop Commerce application locally, follow these steps:
+To set up the ALtoroMatual application locally, follow these steps:
 
 ## Installation Steps for Selenium 4 (Java)
 
@@ -52,14 +52,14 @@ To set up the Nop Commerce application locally, follow these steps:
 *   npm start
 
 ## Usage
-* User Guide: Refer to the User Guide for detailed information on how to use the Nop Commerce application.
+* User Guide: Refer to the User Guide for detailed information on how to use the ALtoroMatual application.
 
 ## Contributing
-* We welcome contributions from the community. To contribute to Nop Commerce, follow these steps:
+* We welcome contributions from the community. To contribute to ALtoroMatual, follow these steps:
 
 ## Fork the repository.
 * Create a new branch for your feature or bug fix.
 * Make your changes and submit a pull request.
 
 ## License
-* Nop Commerce is licensed under the MIT License.
+* ALtoroMatual is licensed under the MIT License.
